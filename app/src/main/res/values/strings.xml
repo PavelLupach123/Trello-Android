@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Trello</string>
+    <string name="add_task_button">Додати завдання</string>
+    <string name="add_task_dialog_title">Додати завдання</string>
+    <string name="add_edit_text_placeholder">Яке завдання?</string>
+    <string name="add_edit_dialog_select_date_button">Виберіть дату</string>
+    <string name="add_edit_dialog_select_time_button">Виберіть час</string>
+    <string name="add_edit_dialog_repeat_everyday">Повторювати щодня</string>
+    <string name="add_edit_dialog_set_reminder_title">Нагадування (необов\'язково)</string>
+    <string name="add_edit_dialog_add_button_text">Додати</string>
+    <string name="add_edit_dialog_cancel_button_text">Скасувати</string>
+    <string name="edit_task_dialog_title">Редагувати завдання</string>
+    <string name="add_edit_dialog_edit_reminder_title">Редагувати нагадування</string>
+    <string name="add_edit_dialog_save_button_text">Зберегти</string>
+    <string name="add_edit_dialog_delete_button_text">Видалити</string>
+    <string name="task_complete_notification_message">Ви виконали своє сьогоднішнє завдання?</string>
+    <string name="empty_list_no_tasks_text">Завдань немає</string>
+    <string name="permission_screen_title">Потрібен дозвіл</string>
+    <string name="permission_screen_information_text">Починаючи з Android 13+, програмам потрібен дозвіл на сповіщення, щоб показувати сповіщення.</string>
+    <string name="permission_screen_request_permission_button">Запит на дозвіл</string>
+    <string name="settings_screen_appbar_title">Налаштування</string>
+    <string name="separate_tasks_using_dates_title">Розділіть завдання за допомогою дат</string>
+    <string name="use_task_complete_animations_title">Анімація виконання завдань</string>
+    <string name="enable_autostart_title">Автозапуск</string>
+    <string name="enable_autostart_information_text">Для деяких пристроїв сповіщення можуть не надходити вчасно або не працювати після перезавантаження. Натисніть тут, щоб увімкнути автозапуск. Корисно для Xiaomi, Oppo, vivo та пристроїв із стандартним ПЗУ</string>
+    <string name="view_source_title">Переглянути джерело</string>
+    <string name="view_source_information_text">.</string>
+    <string name="use_24_hour_clock">24-годинний формат</string>
+    <string name="settings_backup_restore">Резервне копіювання/відновлення</string>
+    <string name="settings_backup_restore_information_text">Резервне копіювання або відновлення ваших завдань із локального файлу zip.</string>
+    <string name="use_task_complete_sounds_title">Звуки завершення завдання</string>
+    <string name="select_app_theme_text">Тема додатку</string>
+    <string name="set_app_theme_settings_text">Установити тему програми</string>
+    <string name="set_app_theme_info_text">Змініть поточну тему програми на світлу, темну або системну за замовчуванням.</string>
+    <string name="delete_task_button_text">Видалити</string>
+    <string name="delete_task_title">Видалити завдання?</string>
+    <string name="delete_task_description">Бажаєте видалити це завдання?</string>
+</resources>
+
